@@ -1,0 +1,13 @@
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\netcoreapp3.1\AssemblyAttrDemo.exe
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\netcoreapp3.1\AssemblyAttrDemo.deps.json
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\netcoreapp3.1\AssemblyAttrDemo.runtimeconfig.json
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\netcoreapp3.1\AssemblyAttrDemo.runtimeconfig.dev.json
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\netcoreapp3.1\AssemblyAttrDemo.dll
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\bin\Debug\netcoreapp3.1\AssemblyAttrDemo.pdb
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\netcoreapp3.1\AssemblyAttrDemo.csprojAssemblyReference.cache
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\netcoreapp3.1\AssemblyAttrDemo.AssemblyInfoInputs.cache
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\netcoreapp3.1\AssemblyAttrDemo.AssemblyInfo.cs
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\netcoreapp3.1\AssemblyAttrDemo.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\netcoreapp3.1\AssemblyAttrDemo.dll
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\netcoreapp3.1\AssemblyAttrDemo.pdb
+D:\Programming\Projects\5th_SI\AssemblyAttrDemo\AssemblyAttrDemo\obj\Debug\netcoreapp3.1\AssemblyAttrDemo.genruntimeconfig.cache

@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>This is a demo of the AssemblyDescription attribute.</Description>
   </PropertyGroup>
 
 </Project>
