@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\AssemblyAttrDemo",
-    "\\AssemblyDemo",
-    "\\New folder"
+    "\\AssemblyAttrDemo\\AssemblyAttrDemo",
+    "\\AssemblyDemo"
   ],
+  "SelectedNode": "\\AssemblyAttrDemo\\AssemblyAttrDemo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
