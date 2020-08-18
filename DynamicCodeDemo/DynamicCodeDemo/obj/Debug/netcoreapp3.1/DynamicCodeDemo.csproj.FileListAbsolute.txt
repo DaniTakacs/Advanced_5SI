@@ -1,0 +1,13 @@
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\netcoreapp3.1\DynamicCodeDemo.exe
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\netcoreapp3.1\DynamicCodeDemo.deps.json
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\netcoreapp3.1\DynamicCodeDemo.runtimeconfig.json
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\netcoreapp3.1\DynamicCodeDemo.runtimeconfig.dev.json
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\netcoreapp3.1\DynamicCodeDemo.dll
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\bin\Debug\netcoreapp3.1\DynamicCodeDemo.pdb
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\netcoreapp3.1\DynamicCodeDemo.csprojAssemblyReference.cache
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\netcoreapp3.1\DynamicCodeDemo.AssemblyInfoInputs.cache
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\netcoreapp3.1\DynamicCodeDemo.AssemblyInfo.cs
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\netcoreapp3.1\DynamicCodeDemo.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\netcoreapp3.1\DynamicCodeDemo.dll
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\netcoreapp3.1\DynamicCodeDemo.pdb
+D:\Programming\Projects\5th_SI\DynamicCodeDemo\DynamicCodeDemo\obj\Debug\netcoreapp3.1\DynamicCodeDemo.genruntimeconfig.cache
